@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /nedladdning/
+Sitemap: https://viktorek.github.io/pm-fagelrundan-digital-faltlogg-for-nyborja-0wyo/sitemap.xml
